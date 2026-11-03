@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c67f1753e0e6a0c45a0ec03bbe3b102e, type: 3}
+  m_Name: Bow Blue Projectile
+  m_EditorClassIdentifier: 
+  itemID: b2cc5c89-ce32-4aaa-90be-6360731abf0f
+  displayName: Ice Bow
+  description: Ice Bow
+  icon: {fileID: 21300000, guid: f8078c2bb5ee88d4a9472f76e501e0f3, type: 3}
+  pickup: {fileID: 8472868556943012450, guid: 17dc58dbc795c3c42b94457b97626e43, type: 3}
+  stackable: 0
+  allowedEquipLocation: 5
+  animatornOverride: {fileID: 22100000, guid: 271fb69564e87a547929c3c4aab2bda5, type: 2}
+  equippedPrefab: {fileID: 114271292963972532, guid: 10f3e385dd57b1a49891da06bb2a5477,
+    type: 3}
+  damage: 0
+  bonus: 20
+  range: 20
+  isRightHanded: 0
+  projectile: {fileID: 4842117086088435880, guid: ba0024f2c52c4b548b1991ec9fe2c98f,
+    type: 3}
